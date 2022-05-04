@@ -12,5 +12,5 @@ iOS移动编程大作业
 
 <img src="https://github.com/Vitap7/myNewsApp_iOS/blob/main/output/detail.png" height="600px" title="新闻详细内容">
 
-<img src="https://github.com/Vitap7/myNewsApp_iOS/blob/main/output/delete.png" height="600px" title="删除已新闻">
+<img src="https://github.com/Vitap7/myNewsApp_iOS/blob/main/output/delete.png" height="600px" title="删除已收藏新闻">
 </div>
